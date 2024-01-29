@@ -6,14 +6,14 @@
     <description>Recent content on VK4MWL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 13:26:53 +1000</lastBuildDate>
     <atom:link href="https://www.lanagan.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://www.lanagan.tech/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://www.lanagan.tech/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <title>First Post</title>
+      <link>https://www.lanagan.tech/posts/first-post/</link>
+      <pubDate>Mon, 29 Jan 2024 13:26:53 +1000</pubDate>
+      <guid>https://www.lanagan.tech/posts/first-post/</guid>
+      <description>Hi my name is Mike and I live in Brisbane Queensland. I have an interest in Amateur Radio, Electronics and working the IT industry.&#xA;My call sign is VK4MWL, I enjoy making contacts on HF and working VKFF parks around Brisbane.&#xA;This Blog will document some of my Amateur Radio activies and electronics projects.</description>
     </item>
   </channel>
 </rss>
