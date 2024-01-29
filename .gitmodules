@@ -1,3 +1,9 @@
 [submodule "VK4MWL/themes/ananke"]
 	path = VK4MWL/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/ananke~"]
+	path = themes/ananke~
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
